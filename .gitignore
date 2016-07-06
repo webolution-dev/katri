@@ -1,0 +1,12 @@
+/themes/twenty*
+/upgrade
+/uploads
+/sitemap.*
+/wp-config.php
+*.sql
+
+# Hidden files
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
